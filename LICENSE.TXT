@@ -1,0 +1,95 @@
+EZO Open Guitar Platform License (EOGPL)
+Version 1.0
+
+Copyright (c) 2026 EZO Guitars of Vermont
+
+Preamble
+
+The EZO Open Guitar Platform is an open hardware project intended to encourage
+collaboration, experimentation, and innovation in guitar design and digital
+fabrication.
+
+Builders, makers, and manufacturers are encouraged to use, modify, and improve
+this platform while maintaining attribution to the original project and
+sharing improvements with the community.
+
+This license governs the use of the design files, documentation, and other
+materials included in this repository.
+
+
+1. Definitions
+"Platform" refers to the EZO Venus De Milo guitar design and associated files
+contained in this repository.
+
+"Design Files" include CAD files, drawings, CNC references, documentation,
+and related materials.
+
+"Derivative Works" refers to modified versions of the design, including
+changes to geometry, hardware layout, scale length, or other features.
+
+
+2. Rights Granted
+You are permitted to:
+
+• Build guitars or instruments based on this platform.
+• Modify the design files.
+• Create derivative designs.
+• Manufacture guitars for personal or commercial use.
+• Share the original or modified design files.
+
+These rights are granted free of charge under the conditions listed below.
+
+
+3. Attribution Requirement
+Commercially produced guitars based on this platform must include attribution
+to the original project.
+
+Attribution must include the EZO logo placed on BOTH:
+
+• the neck
+• the body
+
+This requirement ensures that the origin of the platform is recognized while
+allowing builders to use their own branding.
+
+
+4. Share-Alike Requirement
+If you distribute modified versions of the design files, you must release those
+files under the same EZO Open Guitar Platform License.
+
+This ensures that improvements remain available to the community.
+
+
+5. Personal Use
+Personal builds and experimentation are unrestricted.
+
+Builders are encouraged, but not required, to reference the project when
+sharing personal builds.
+
+
+6. Trademark and Branding
+"EZO" and the EZO logo are trademarks of EZO Guitars of Vermont.
+
+This license does not grant permission to represent derivative instruments as
+official EZO products.
+
+Acceptable example:
+
+"Built on the EZO Venus De Milo Platform"
+
+Not permitted:
+
+"EZO Model X"
+
+
+7. No Warranty
+The design files and documentation are provided "as is", without warranty of
+any kind.
+
+The author and contributors are not liable for damages, injury, or losses
+resulting from the use of this design.
+
+
+8. Acceptance
+By using, modifying, or distributing this platform or its design files, you
+agree to the terms of this license.
