@@ -5,6 +5,8 @@ CNC-first design, highly customizable.
 
 ---
 
+![Venus De Milo Guitar](images/venusdemilo.jpg)
+
 An open source, CNC-first electric guitar platform designed for builders, makers, and digital fabrication workflows.
 
 This project provides a modern bolt-on guitar design intended to be easy to manufacture with CNC routers while still remaining accessible to traditional woodworking tools.
