@@ -177,22 +177,22 @@ Standardized mounting patterns are provided to encourage compatibility and inter
 ## Repository Structure
 
 ```
-/Body
+/body
 Body CAD files and machining references
 
-/Neck
+/neck
 Neck geometry and fretboard layout
 
-/CNC
+/cnc
 Reference geometry and machining notes
 
-/Hardware
+/hardware
 Bridge placement, pickup spacing, mounting references
 
-/Branding
+/branding
 EZO logo and attribution assets
 
-/Prototype
+/prototype
 Test prints and geometry validation models
 
 /docs
