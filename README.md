@@ -1,3 +1,21 @@
+# Project News
+
+3/8/26
+I HAVE UPLOADED THE FIRST ROUND OF STL FILES AND THE MASTER SKP FILES FOR ALL TO ENJOY!
+
+Please download the project and give feedback! I can only improve what I know.
+
+##
+
+Change Log:
+
+Things are uploaded. Try them. 
+
+### Known Issues
+
+Be sure to use a 2 degree shim on the neck if you use a TOM style bridge or Reddit will tell you all about it. :D
+
+
 # EZO Venus De Milo Guitar Platform
 
 Open Source Guitar Design for hobbyists and professional luthiers.  
