@@ -5,9 +5,7 @@ I HAVE UPLOADED THE FIRST ROUND OF STL FILES AND THE MASTER SKP FILES FOR ALL TO
 
 Please download the project and give feedback! I can only improve what I know.
 
-##
-
-Change Log:
+## Change Log:
 
 Things are uploaded. Try them. 
 
