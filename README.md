@@ -193,26 +193,20 @@ Standardized mounting patterns are provided to encourage compatibility and inter
 ## Repository Structure
 
 ```
-/body
-Body CAD files and machining references
+/STL Files
+STL Files of body, neck, and fretboard. Ready for 3d printing or even your own CAM endeavors.
 
-/neck
-Neck geometry and fretboard layout
 
 /cnc
-Reference geometry and machining notes
+Reference geometry and machining notes. COMING SOON!
 
-/hardware
-Bridge placement, pickup spacing, mounting references
 
 /branding
-EZO logo and attribution assets
+EZO logo and attribution assets.
 
-/prototype
-Test prints and geometry validation models
 
 /docs
-Build documentation and notes
+Build documentation and notes. Also includes SKP Files of body, neck and fretboard.
 ```
 
 ---
