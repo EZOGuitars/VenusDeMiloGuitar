@@ -1,6 +1,12 @@
 \##FILE\_ID.DIZ
 
-Venus De Milo.skp - Standard Guitar Model. Sketchup Make 2017 File. Typically - all things start with this SKP.
+Here is all the fun parts and pieces of the Venus De Milo.
 
-Venus De Milo TOM Version.skp - Same as Venus De Milo.skp, but the "Standard" staging design with neck installed at 2 degree tilt. r/luthier may approve. Bonus points for using shims to achieve 2 degree neck tilt. They love it 😁
+
+
+First you may notice that some assembles have components from other SKP files in this directory. That is intentional.
+
+
+
+Enjoy! this is the DNA of the guitar.
 
