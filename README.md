@@ -1,5 +1,10 @@
 # Project News
 
+7/25/26
+A lot of file changes have happened. New body styles, router templatese, drill guides, all sorts of neat stuff. 
+
+Keep Posted for me exciting changes! 
+
 3/8/26
 I HAVE UPLOADED THE FIRST ROUND OF STL FILES AND THE MASTER SKP FILES FOR ALL TO ENJOY!
 
